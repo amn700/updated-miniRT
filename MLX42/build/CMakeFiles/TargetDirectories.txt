@@ -1,0 +1,7 @@
+/Users/mac/miniRT/MLX42/build/CMakeFiles/mlx42.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/edit_cache.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/list_install_components.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/install.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/install/local.dir
+/Users/mac/miniRT/MLX42/build/CMakeFiles/install/strip.dir
